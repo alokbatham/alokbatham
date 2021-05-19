@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> I'm Alok <img src="https://media.giphy.com/media/tK9wGsGc72LcznCSeU/giphy.gif" width="50"></h2>
+<h2> I'm Alok <img src="https://media.giphy.com/media/L30G21BF3UyTm/giphy.gif" width="50"></h2>
 
 *I am a Cyber Security Researcher and a programmer as well.*
 
