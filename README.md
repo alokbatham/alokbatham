@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2> I'm Alok <img src="https://media.giphy.com/media/tK9wGsGc72LcznCSeU/giphy.gif" width="50"></h2>
+
+*I am a Cyber Security Researcher and a programmer as well.*
+
 <!--
 **alokbatham/alokbatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
