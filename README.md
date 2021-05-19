@@ -2,6 +2,8 @@
 
 *I am a Cyber Security Researcher and a programmer as well.*
 
+![Visitor Count](https://profile-counter.glitch.me/alokbatham/count.svg)
+
 <!--
 **alokbatham/alokbatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
