@@ -2,7 +2,7 @@
 
 *I am a Cyber Security Researcher and a programmer as well.*
 
-![](https://komarev.com/ghpvc/?username=alokbatham)
+![](https://komarev.com/ghpvc/?username=alokbatham&color=brightgreen)
 
 <!--
 **alokbatham/alokbatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
