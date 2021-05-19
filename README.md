@@ -1,4 +1,4 @@
-<h2> Hi, I'm Alok. <img src="https://media.giphy.com/media/XEInMKQQNvQynPPVhO/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Alok. <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50"></h2>
 
 *I am a Cyber Security Researcher and a programmer as well.*
 
